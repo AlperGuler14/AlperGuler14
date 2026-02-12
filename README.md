@@ -18,7 +18,7 @@
 ---
 
 ## 📌 My Featured Projects
-- 🌦️ [Python Hava Durumu Uygulaması](https://github.com/AlperGuler14/weather-app)  
+- 🌦️ [Python Hava Durumu Uygulaması]([https://github.com/AlperGuler14/weather-app](https://github.com/AlperGuler14/python.weatherapp))  
 - 📊 coming...
 - 🤖 coming...
 
