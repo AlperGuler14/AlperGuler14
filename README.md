@@ -2,7 +2,7 @@
 
 🎓 I am a Management Information Systems student.  
 💻 I am interested in software development, data analytics, and artificial intelligence.  
-📊 I work with Python, SQL, HTML/CSS, and data visualization.  
+📊 I work with Python, SQL and data visualization.  
 🚀 My goal is to specialize in data science and artificial intelligence.  
 
 ---
