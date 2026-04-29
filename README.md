@@ -22,7 +22,7 @@
 
 ## 📌 My Featured Projects
 - 🌦️ [Python Hava Durumu Uygulaması](https://github.com/AlperGuler14/python.weatherapp) 
-- 📊 coming... 
+- 📊 [GitHubAnalysis](https://github.com/AlperGuler14/GitHubAnalysis)
 - 📊 [FACE-LOCK](https://github.com/AlperGuler14/FACE-LOCK)
 - 🤖 coming...
 
